@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Mechanical Engineer with a focus on Aerospace and Robotics. My interests are in Planning, Controls and Navigation. I like exploring these in the aspects of Space Exploration.
+I am a Mechanical Engineer with a focus on Aerospace and Robotics. My interests are in Planning, Controls and Navigation. I like exploring these in the aspects of Space Exploration.
 
 <!--
 **dheerubhai-101/dheerubhai-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
