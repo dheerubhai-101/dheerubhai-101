@@ -3,6 +3,9 @@
 I am a Mechanical Engineer with a focus on Aerospace and Robotics. My interests are in Planning, Controls and Navigation. I like exploring these in the aspects of Space Exploration.
 
 My open source contributions can be found [here](https://gist.github.com/dheerubhai-101/f5e5563c2d2338213a3c54727d259f57.js)
+
+Recent Highlights:
+- [Participated in ROS2 Kilted Kaiju T&T Party](https://discourse.ros.org/t/ros-2-kilted-kaiju-release/43902#p-93471-top-test-and-tutorial-party-testers-10)
 <!--
 **dheerubhai-101/dheerubhai-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
